@@ -1,0 +1,12 @@
+{
+    "name": "abeltodev/quelastic",
+    "description": "Elasticsearch Query Builder",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Abel Fernandez",
+            "email": "abelfernandez88@gmail.com"
+        }
+    ],
+    "require": {}
+}
